@@ -23,6 +23,8 @@ Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Ke
 
 ### News
 
+  * Best Paper Award, [WAFFLE: A Wearable Approach to Bite Timing Estimation in Robot-Assisted Feeding](https://sites.google.com/view/bitetiming/), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2026
+  * Best Paper Nomination, [Bidirectional Human-Robot Communication for Physical Human-Robot Interaction](https://bidir-comm.github.io), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2026
   * Organizing IROS 2025 workshop on [RObotic MAnipulation of Deformable Objects (ROMADO 2025)](https://romado-workshop.github.io/ROMADO2025.github.io/)
   * Best Paper Nomination, [LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation](https://lams-assistance.github.io), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025
   * Best Paper Award, [Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator](https://sites.google.com/view/hat2-teleop/), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2024
