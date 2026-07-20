@@ -25,6 +25,7 @@ Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Ke
 
 ### News
 
+  * NSF CAREER, 2026
   * Best Paper Award, [WAFFLE: A Wearable Approach to Bite Timing Estimation in Robot-Assisted Feeding](https://sites.google.com/view/bitetiming/), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2026
   * Best Paper Nomination, [Bidirectional Human-Robot Communication for Physical Human-Robot Interaction](https://bidir-comm.github.io), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2026
   * Organizing IROS 2025 workshop on [RObotic MAnipulation of Deformable Objects (ROMADO 2025)](https://romado-workshop.github.io/ROMADO2025.github.io/)
