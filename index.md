@@ -10,7 +10,7 @@ layout: page
 
 ![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
 
-**I am looking for 1 Postdoc to join our research group starting ASAP or Fall 2026. Please email me your CV.**
+**I am looking for 1 Postdoc to join our research group starting anytime in Fall 2026. Please email me your CV.**
 
 **I am looking for 1-2 PhD students to join our research group in Fall 2026**.
 
