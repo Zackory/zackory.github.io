@@ -41,12 +41,6 @@ Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Ke
   * Chair at IROS 2022 session on Art and Entertainment and Manipulation
   * Co-chair at ICRA 2022 session on Physical HRI
   * Area Chair for CoRL 2022
-  * Associate Editor for RO-MAN 2022 
-  * Organizing IROS 2022 workshop [Proximity Perception - Towards Next-Generation Multi-Modal Sensing in Soft Structures](https://proxelsandtaxels.org/en/)
-  * Invited talk at RSS 2022 workshop on [Close Proximity Human-Robot Collaboration](https://sites.google.com/colorado.edu/rss-22-close-proximity-hrc/)
-  * Invited talk at IROS 2021 workshop on [Proximity Perception in Robotics](https://www.proxelsandtaxels.org/en/)
-  * Organizing an ICRA 2021 workshop [Learning for Caregiving Robots](https://sites.gatech.edu/learning-caregiving-icra2021/)
-  * Invited talk at ICRA 2021 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2021/)
 
 ---
 
