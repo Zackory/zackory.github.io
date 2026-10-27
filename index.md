@@ -10,12 +10,6 @@ layout: page
 
 ![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
 
-**I am looking for 1 Postdoc to join our research group starting anytime in Fall 2026. Please email me your CV.**
-
-**I am looking for 1-2 PhD students to join our research group in Fall 2026**.
-
-**We also have several open positions for MSR and Master's students starting Fall 2026**.
-
 I am a tenure-track Assistant Professor in [The Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), where I lead the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io).
 My research focuses on developing new robot learning, mobile manipulation, and sensing methods, with applications in physical human-robot interaction and healthcare.
 
